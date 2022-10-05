@@ -1,0 +1,9 @@
+Please implement a test based on the following scenario: 
+
+URL: https://growth.deel.training/dev/salary-insights
+
+1. Select the role: QA Engineer
+2. Select the country: Canada
+3. Click the Search
+
+Verify that text with selected role and country is displayed in the header of the chart
